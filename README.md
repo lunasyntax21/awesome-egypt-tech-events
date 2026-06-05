@@ -8,7 +8,6 @@
 
 **Know an event that's missing? [Submit it here →](https://github.com/lunasyntax21/awesome-egypt-tech-events/issues/new?template=add-event.md)**
 
-Last updated: June 2026
 ---
 
 ## Contents
@@ -18,6 +17,7 @@ Last updated: June 2026
 - [🎓 Student Programs & Competitions](#-student-programs--competitions)
 - [🛠️ Bootcamps & Training](#️-bootcamps--training)
 - [📅 Conferences & Summits](#-conferences--summits)
+- [🎓 University & Education Fairs](#-university--education-fairs)
 - [🌐 Useful Event Sources](#-useful-event-sources)
 
 ---
@@ -45,6 +45,7 @@ Last updated: June 2026
 | ITIDA Software Engineering Competition | ITIDA / MCIT | May (Annual) | Cairo | [itida.gov.eg](https://itida.gov.eg) |
 | AUC Career Fair | AUC Career Center | Spring & Fall | Cairo (AUC) | [aucegypt.edu](https://www.aucegypt.edu) |
 | Capgemini Young Professionals Program | Capgemini Egypt | Ongoing | Cairo | [capgemini.com/eg-en](https://www.capgemini.com/eg-en) |
+| Traverse AI & Tech Edition | ICTeam | Apr (Annual) | Cairo (Greek Campus) | [facebook.com/ICTeamOfficial](https://www.facebook.com/ICTeamOfficial) |
 
 ---
 
@@ -57,6 +58,7 @@ Last updated: June 2026
 | Microsoft Imagine Cup Egypt | Microsoft Egypt | TBD | University Students | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
 | IBM Digital Nation Egypt | IBM + ITI + MCIT | TBD | All Students | [ibm.com](https://ibm.com) |
 | Innovation Sprint | AUC Innovation Hub | TBD | Entrepreneurs & Students | [aucegypt.edu](https://www.aucegypt.edu/innovation-ideathons-and-hackathons) |
+| Enactus Egypt National Competition | Enactus Egypt | Jul–Aug (Annual) | University Students | [enactusegypt.org](https://enactusegypt.org) |
 
 ---
 
@@ -73,31 +75,49 @@ Last updated: June 2026
 
 ## 📅 Conferences & Summits
 
+| Event | Organizer | When | Where | Student Friendly | Link |
+|-------|-----------|------|-------|-----------------|------|
+| AI Everything MEA | G42 / Various | Feb (Annual) | Cairo | ✅ | [aieverything.com](https://aieverything.com) |
+| Cairo ICT | MCIT | Nov 8–11 (Annual) | Cairo (EIEC) | ✅ (student/youth ticket) | [cairoict.com](https://cairoict.com) |
+| Creative Industry Summit (CIS) | CIS / Mai Salama | Jun (Annual) | New Cairo | ✅ | [creativeindustrysummit.com](https://creativeindustrysummit.com) |
+| RiseUp Summit | RiseUp | Dec (Annual) | Cairo | ✅ | [riseup.co](https://riseup.co) |
+| Techne Summit | Techne | TBD | Alexandria | ✅ | [technesummit.com](https://technesummit.com) |
+| Google I/O Extended Cairo | GDG Cairo | Jun (Annual) | Cairo (Greek Campus) | ✅ | [gdg.community.dev](https://gdg.community.dev) |
+
+---
+
+## 🎓 University & Education Fairs
+
 | Event | Organizer | When | Where | Link |
 |-------|-----------|------|-------|------|
-| AI Everything MEA | G42 / Various | Feb (Annual) | Cairo | [aieverything.com](https://aieverything.com) |
-| RiseUp Summit | RiseUp | Dec (Annual) | Cairo | [riseup.co](https://riseup.co) |
-| Cairo ICT | MCIT | Nov (Annual) | Cairo | [cairoict.com](https://cairoict.com) |
-| Techne Summit | Techne | TBD | Alexandria | [technesummit.com](https://technesummit.com) |
+| Edugate International University Fair | Edugate | Jul–Aug (Twice/Year) | Cairo (Kempinski Royal Maxim) | [edugate-eg.com](https://edugate-eg.com) |
+| EduTech Egypt | Edugate / MCIT | Annual | Cairo (EIEC) | [tech.edutech-eg.com](https://www.tech.edutech-eg.com) |
+| Edu World Egypt | Edu World | Apr (Annual) | Cairo (CICC) | [eduworld-egypt.com](https://eduworld-egypt.com) |
 
 ---
 
 ## 🌐 Useful Event Sources
 
-Sites to regularly check for new events in Egypt:
+Sites and venues to regularly check for new events in Egypt:
 
 - [EgyptInnovate](https://egyptinnovate.com) — Government-backed innovation & events hub
-- [GDG Community Egypt](https://gdg.community.dev) — Google Developer Groups events
-- [Eventbrite Egypt](https://www.eventbrite.com/d/egypt/tech/) — Tech events on Eventbrite
+- [GDG Community Egypt](https://gdg.community.dev) — Google Developer Groups events across Egypt
+- [The GrEEK Campus](https://www.thegreekcampus.com) — Egypt's #1 tech park; hosts 200+ events/year in Downtown Cairo
+- [Eventbrite Egypt](https://www.eventbrite.com/d/egypt/tech/) — Tech events across Egypt
 - [Devpost](https://devpost.com/hackathons?search=egypt) — Hackathons listing
 - [IEEE Egypt](https://egypt.ieeeregion8.org) — IEEE student chapter events
 - [RiseUp](https://riseup.co) — Startup & innovation events
+- [Cairo ICT](https://cairoict.com) — Egypt's largest annual tech conference
 
 ---
 
 ## Contributing
 
 Know an event that's missing or outdated? See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add it. All contributions are welcome!
+
+---
+
+_Last updated: June 2026_
 
 ---
 

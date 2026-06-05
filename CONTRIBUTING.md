@@ -14,7 +14,7 @@ Thank you for helping keep this list up to date! 🎉
 
 ### Option 2: Submit a Pull Request
 
-1. [Fork this repository](https://github.com/lunasyntax/awesome-egypt-tech-events/fork)
+1. [Fork this repository](https://github.com/lunasyntax21/awesome-egypt-tech-events/fork)
 2. Edit the relevant section in `README.md`
 3. Follow the table format already used
 4. Submit a Pull Request with a short description
