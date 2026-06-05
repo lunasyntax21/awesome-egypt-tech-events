@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**Know an event that's missing? [Submit it here →](https://github.com/YOUR_USERNAME/awesome-egypt-tech-events/issues/new?template=add-event.md)**
+**Know an event that's missing? [Submit it here →](https://github.com/lunasyntax21/awesome-egypt-tech-events/issues/new?template=add-event.md)**
 
 ---
 
