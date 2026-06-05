@@ -8,6 +8,7 @@
 
 **Know an event that's missing? [Submit it here →](https://github.com/lunasyntax21/awesome-egypt-tech-events/issues/new?template=add-event.md)**
 
+Last updated: June 2026
 ---
 
 ## Contents
