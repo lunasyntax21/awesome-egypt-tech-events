@@ -18,6 +18,7 @@
 - [🛠️ Bootcamps & Training](#️-bootcamps--training)
 - [📅 Conferences & Summits](#-conferences--summits)
 - [🎓 University & Education Fairs](#-university--education-fairs)
+- [🏅 Graduation Projects Support & Competitions](#-graduation-projects-support--competitions)
 - [🌐 Useful Event Sources](#-useful-event-sources)
 
 ---
@@ -95,6 +96,21 @@
 | Edu World Egypt | Edu World | Apr (Annual) | Cairo (CICC) | [eduworld-egypt.com](https://eduworld-egypt.com) |
 
 ---
+
+## 🏅 Graduation Projects Sponsorship/Competitions
+
+| Event | Organizer | Fields |
+| --- | --- | --- |
+| [Graduation Projects Competition (Track 2: Ongoing)](https://www.tra.gov.eg/en/industry/research-and-development/graduation-projects/9163-2/) | NTRA | Telecom, ICT, AI, Cybersecurity, IoT |
+| [Graduation Projects Support Program](https://mekeg.org/en/join_us/scholarships/12) | Misr El Khair | Energy, Health, Agriculture, Water, AI |
+| [Undergraduate Research Forum (UGRF)](https://ugrf.nu.edu.eg/) | Nile University | Undergraduate Research, Innovation |
+| [Egypt AI & IoT Challenge](https://egypt.arabiotai.org/#Partners) | ASRT, NTRA, Misr El Khair | AI, IoT, Smart Cities, Health, Energy |
+| [ITAC Graduation Projects Support](https://itida.gov.eg/English/Programs/Graduation/Pages/default.aspx) | ITIDA | ICT, Engineering, Computer Science |
+| [Made In Egypt (MIE)](https://ieeeypegypt.org/mie/) | IEEE-YP-Egypt | Engineering, Sustainability, Startups |
+| [Rally Startup Competition](https://ec.aast.edu/rallycompetition.php) | AASTMT | Startups, Technology, Business |
+| [Undergraduate Research Forum (UGRF)](https://ugrf.nu.edu.eg/) | Nile University | Undergraduate Research, Innovation |
+| [Graduation Projects Competition (Track 1: Completed)](https://www.tra.gov.eg/en/industry/research-and-development/graduation-projects/9163-2/) | NTRA | Telecom, ICT, AI, Cybersecurity, IoT |
+| [Intel® AI Global Impact Festival](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/impact-festival.html) | Intel | AI, Digital Readiness |
 
 ## 🌐 Useful Event Sources
 
