@@ -34,6 +34,7 @@
 | NASA Space Apps Cairo | Various Universities | Oct (Annual) | Cairo | ✅ | [spaceapps.nasa.gov](https://www.spaceapps.nasa.gov) |
 | Egypt2030 Hackathon | RiseUp + UN + PepsiCo | TBD | Cairo | ✅ | [devpost.com](https://egypt2030hackathon.devpost.com) |
 | Hack Club STEM Egypt | Hack Club STEM Egypt | Twice/Year | Cairo | ✅ (high school) | [stemeghackclub.org](https://stemeghackclub.org) |
+| ITIDA-SECC DevOps Hackathon | Cairo| July | https://lnkd.in/eCQ-MqJX |
 
 ---
 
